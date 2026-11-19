@@ -1,18 +1,32 @@
 {
   "source": "https://api.stock.naver.com/marketindex/metals/M04020000/prices?page=1&pageSize=20",
-  "fetchedAt": "2026-11-18T03:52:19.249031+00:00",
+  "fetchedAt": "2026-11-19T00:58:44.823865+00:00",
   "proxyStatus": 200,
   "data": [
     {
+      "localTradedAt": "2026-11-19T00:00:00+09:00",
+      "closePrice": "162,090",
+      "fluctuationsType": {
+        "code": "3",
+        "text": "보합",
+        "name": "UNCHANGED"
+      },
+      "fluctuations": "0",
+      "fluctuationsRatio": "0.00",
+      "openPrice": "0",
+      "highPrice": "0",
+      "lowPrice": "0"
+    },
+    {
       "localTradedAt": "2026-11-18T00:00:00+09:00",
-      "closePrice": "162,430",
+      "closePrice": "162,090",
       "fluctuationsType": {
         "code": "5",
         "text": "하락",
         "name": "FALLING"
       },
-      "fluctuations": "-4,430",
-      "fluctuationsRatio": "-2.65",
+      "fluctuations": "-4,770",
+      "fluctuationsRatio": "-2.86",
       "openPrice": "0",
       "highPrice": "0",
       "lowPrice": "0"
@@ -265,20 +279,6 @@
       },
       "fluctuations": "-3,040",
       "fluctuationsRatio": "-1.74",
-      "openPrice": "0",
-      "highPrice": "0",
-      "lowPrice": "0"
-    },
-    {
-      "localTradedAt": "2026-10-22T00:00:00+09:00",
-      "closePrice": "174,290",
-      "fluctuationsType": {
-        "code": "5",
-        "text": "하락",
-        "name": "FALLING"
-      },
-      "fluctuations": "-960",
-      "fluctuationsRatio": "-0.55",
       "openPrice": "0",
       "highPrice": "0",
       "lowPrice": "0"
