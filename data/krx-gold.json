@@ -1,18 +1,18 @@
 {
   "source": "https://api.stock.naver.com/marketindex/metals/M04020000/prices?page=1&pageSize=20",
-  "fetchedAt": "2026-11-20T00:54:39.067632+00:00",
+  "fetchedAt": "2026-11-21T00:57:13.611891+00:00",
   "proxyStatus": 200,
   "data": [
     {
       "localTradedAt": "2026-11-20T00:00:00+09:00",
-      "closePrice": "154,310",
+      "closePrice": "153,090",
       "fluctuationsType": {
         "code": "5",
         "text": "하락",
         "name": "FALLING"
       },
-      "fluctuations": "-5,440",
-      "fluctuationsRatio": "-3.41",
+      "fluctuations": "-6,660",
+      "fluctuationsRatio": "-4.17",
       "openPrice": "0",
       "highPrice": "0",
       "lowPrice": "0"
