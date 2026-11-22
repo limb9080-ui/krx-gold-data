@@ -1,6 +1,6 @@
 {
   "source": "https://api.stock.naver.com/marketindex/metals/M04020000/prices?page=1&pageSize=20",
-  "fetchedAt": "2026-11-21T00:57:13.611891+00:00",
+  "fetchedAt": "2026-11-22T00:52:22.587512+00:00",
   "proxyStatus": 200,
   "data": [
     {
